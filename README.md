@@ -35,7 +35,7 @@
 
 
 ### Output:
-![Uploading Screenshot 2024-05-05 215011.png…]()
+![Screenshot 2024-05-05 215011](https://github.com/DurgaV240106/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144870878/fc5ffeda-6250-4b7d-82fb-ace2441ee6a9)
 
 
 ### Name:
