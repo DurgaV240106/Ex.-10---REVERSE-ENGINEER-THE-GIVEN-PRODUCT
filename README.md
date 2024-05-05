@@ -1,6 +1,6 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex.N0.04   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 05-05-2023
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,8 +31,11 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![Screenshot 2024-05-05 214823](https://github.com/DurgaV240106/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144870878/87959765-0c46-4fe9-8065-fbe5aa21f480)
+
 
 ### Output:
+![Uploading Screenshot 2024-05-05 215011.png…]()
 
 
 ### Name:
